@@ -8,12 +8,10 @@ A compact, rechargeable cable continuity tester, with adjustable volume and remo
 2. Adjustable volume control
 3. Silent mode
 4. Removable test leads
-5. Main Power On/Off switch
-6. USB Type-C Charging with overcharge, over-discharge and short-circuit protection
-7. Charging and Full-Charge LED Indication
+5. Main power On/Off switch
+6. USB Type-C charging with overcharge, over-discharge and short-circuit protection
+7. Charging and full-charge LED indication
 8. Power output
-
----
 
 ## Components
 
@@ -31,8 +29,6 @@ A compact, rechargeable cable continuity tester, with adjustable volume and remo
 12. 1× Enclosure Case
 13. DC Power Cable
 14. Hookup Wire
-
-----
 
 ## Circuit
 
